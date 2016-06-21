@@ -1,0 +1,4 @@
+services:
+#    yadagroup_texto.example:
+#        class: yadagroup\TextoBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
